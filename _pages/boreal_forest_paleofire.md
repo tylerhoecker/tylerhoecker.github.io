@@ -1,4 +1,5 @@
 ---
+permalink: posts/boreal_forest_paleofire/
 title: "Paleofire ecology in boreal Alaska"
 header:
   image: /assets/images/nowitna.JPG
