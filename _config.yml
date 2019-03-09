@@ -24,7 +24,7 @@ url                      : "https://tylerhoecker.github.io"
 baseurl                  : #"/tylerhoecker"
 repository               : "tylerhoecker/tylerhoecker.github.io"
 teaser                   : "/assets/images/nowitna.JPG"
-logo                     : "/assets/images/regen_space_diagram.png"
+logo                     : "/assets/images/pyramid_logo.png"
 masthead_title           : 'Tyler Hoecker'
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
