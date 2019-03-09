@@ -25,7 +25,7 @@ baseurl                  : #"/tylerhoecker"
 repository               : "tylerhoecker/tylerhoecker.github.io"
 teaser                   : "/assets/images/nowitna.JPG"
 logo                     : "/assets/images/headshot.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : 'Tyler Hoecker'
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -83,7 +83,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "tylerhoecker"
 facebook:
   username               :
   app_id                 :
@@ -94,7 +94,7 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: "https://twitter.com/yourTwitter"
 
 # Analytics
 analytics:
@@ -120,7 +120,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/tylerhoecker"
+      url: "https://twitter.com/tylerhoecker"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
