@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: posts/boreal_forest_paleofire/
 title: "Paleofire ecology in boreal Alaska"
 header:
