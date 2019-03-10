@@ -1,13 +1,13 @@
 ---
 layout: single
-permalink: /boreal_forest_paleofire/
-title: "Paleofire ecology in boreal Alaska"
+permalink: /seed_addition_experiment/
+title: "Regeneration after short-interal fires in Greater Yellowstone"
 header:
-  image: /assets/images/nowitna.JPG
+  image: /assets/images/calipers.JPG
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
 Content about seed-addition experiment.
 
-
-
+Includes photos.
+[Figure Caption](/assests/images/gye_map.png)
