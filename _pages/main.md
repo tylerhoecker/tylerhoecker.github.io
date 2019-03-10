@@ -14,7 +14,6 @@ feature_row:
     url: "/boreal_forest_paleofire/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-feature_row:
   - image_path: /assets/images/met_station.JPG
     alt: "customizable"
     title: "Paleofire ecology in boreal Alaska"
