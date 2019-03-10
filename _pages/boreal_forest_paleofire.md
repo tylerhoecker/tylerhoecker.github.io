@@ -1,6 +1,6 @@
 ---
 layout: single
-#permalink: /boreal_forest_paleofire/
+permalink: /pages/boreal_forest_paleofire/
 title: "Paleofire ecology in boreal Alaska"
 header:
   image: /assets/images/nowitna.JPG
