@@ -13,7 +13,7 @@ Current projects: My first dissertation project will investigate the relative im
 
 Personal interests: My passion for exploring the natural world is what lead me to science, and I enjoy a variety of methods for doing so: by foot, bike, ski, and on rock. I also love coffee, beer, cheese curds, Laotian food and other delicacies found around Madison.
 
-[Download my CV as a PDF](/assets/pdfs/hoecker_cv_2018_03_10.pdf) directly.
+[Download my CV as a PDF](/assets/pdfs/hoecker_cv_2019_03_10.pdf) directly.
 
 Contact info:
 431 Birge Hall
