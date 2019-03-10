@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/nowitna.JPG
+  overlay_image: /assets/images/fire_banner.JPG
 excerpt: >
   I'm a Ph.D. student at the University of Wisconsin-Madison. I study the causes and consequences of fire in temperate forests. 
 feature_row:
