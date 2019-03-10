@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /seed_addition_experiment/
+permalink: /seed_addition/
 title: "Regeneration after short-interal fires in Greater Yellowstone"
 header:
   image: /assets/images/calipers.JPG
