@@ -1,3 +1,10 @@
+---
+permalink: /about/
+title: "About"
+#excerpt: ""
+last_modified_at: 2019-03-10T20:23:03-05:00
+#toc: true
+---
 
 Research interests: Natural and human systems across the globe appear to be changing at unprecedented rates. My research centers around understanding the drivers of environmental change at ecosystem, landscape and biome scales. I am interested in how disturbances shape structure and function, integrate processes across scales, catalyze environmental change, and vary through time and space. Fire, as a key driver of material and energy cycling, species composition, and ecosystem function across much of North America’s forests, has been the focus of my graduate research. 
 
@@ -6,7 +13,7 @@ Current projects: My first dissertation project will investigate the relative im
 
 Personal interests: My passion for exploring the natural world is what lead me to science, and I enjoy a variety of methods for doing so: by foot, bike, ski, and on rock. I also love coffee, beer, cheese curds, Laotian food and other delicacies found around Madison.
 
-[Download my CV as a PDF](/assets/hoecker_cv.pdf) directly.
+[Download my CV as a PDF](/assets/pdfs/hoecker_cv_2018_03_10.pdf) directly.
 
 Contact info:
 431 Birge Hall

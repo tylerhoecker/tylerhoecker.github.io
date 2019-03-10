@@ -2,8 +2,8 @@
 permalink: /publications/
 title: "Publications"
 #excerpt: ""
-last_modified_at: 2019-01-23T20:23:03-05:00
-toc: true
+last_modified_at: 2019-03-10T20:23:03-05:00
+#toc: true
 ---
 
 Selected publications: 
