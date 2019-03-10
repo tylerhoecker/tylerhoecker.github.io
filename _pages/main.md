@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/fire_banner.jpg
 excerpt: 
-  I'm a Ph.D. student at the University of Wisconsin-Madison. I study the causes and consequences of fire in temperate forests. 
+  "I'm a Ph.D. student at the University of Wisconsin-Madison. I study the causes and consequences of fire in temperate forests." 
 feature_row:
   - image_path: /assets/images/nowitna_map.png
     alt: "customizable"
