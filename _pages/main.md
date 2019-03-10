@@ -11,7 +11,7 @@ feature_row:
     alt: "customizable"
     title: "Paleofire ecology in boreal Alaska"
     excerpt: "A 450-year record of fire, vegetation and climate shows variable drivers of fire activity, and rapid 20th-century increases in burning."
-    url: "/boreal_forest_paloefire/"
+    url: "/pages/boreal_forest_paloefire/"
     btn_class: "btn--primary"
     btn_label: "Learn more"    
 ---
