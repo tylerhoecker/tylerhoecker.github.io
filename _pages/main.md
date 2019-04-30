@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/fire_banner.jpg
 excerpt: 
-  "UNDER CONSTRUCTION - CHECK BACK SOON!" 
+  "Landscape and ecosystem ecology in a rapidly changing world" 
 
 feature_row:
   - image_path: /assets/images/nowitna_map.png

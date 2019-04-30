@@ -24,12 +24,8 @@ references:
 
 
 ---
-Selected publications: 
+Hoecker, T. J. and P. E. Higuera. 2019. Forest succession and climate variability interacted to control fire activity over the last four centuries in an Alaskan boreal landscape. Landscape Ecology 34.2:227–41. https://doi.org/10.1007/s10980-018-00766-8. [PDF](/assets/pdfs/Hoecker_etal_2019_Land_Ecol.pdf)
 
-Hoecker, T.J., P.E. Higuera, R. Kelly, F.S. Hu. 2017. “Variability and synchrony in 10,000 
-years of Alaskan fire history: Using paleoecological data to understand the controls and implications of fire-regime change.” Annual Meeting, Ecological Society of American. Oral presentation. doi: 10.6084/m9.figshare.5296171
+Hoecker, T. J., P. E. Higuera, R. Kelly, and F. S. Hu. Arctic and boreal paleofire records reveal drivers of fire activity and departures from Holocene variability. In prep. 
 
-Hoecker, T.J., P.E. Higuera, R. Kelly, F.S. Hu. 2015. “Spatiotemporal trends in late-Holocene   
-fire regimes in arctic and boreal Alaska.” Fall Meeting, American Geophysical Union. San Francisco, CA. Oral presentation.
-
-## Publications
+Hoecker, T. J., W. D. Hansen, and M. G. Turner. Novel fire regimes, warming climate, and subalpine forests: does landscape position amplify or dampen effects of short-interval fire on postfire tree establishment? Invited submission to Journal of Applied Ecology. prep.
