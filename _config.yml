@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Tyler Hoecker"
 title_separator          : "-"
 name                     : "Tyler J. Hoecker"
-description              : "Tyler Hoecker, Ecosystem and Landscape Ecologist"
+description              : "Tyler Hoecker, Landscape and Ecosystem Ecologist"
 url                      : "https://tylerhoecker.github.io"
 baseurl                  : #"/tylerhoecker"
 repository               : "tylerhoecker/tylerhoecker.github.io"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Tyler J. Hoecker"
   avatar           : "/assets/images/headshot.JPG"
-  bio              : "Ecosystem and Landscape Ecologist"
+  bio              : "Landscape and Ecosystem Ecologist"
   location         : "Universty of Wisconsin-Madison"
   email            :
   links:
