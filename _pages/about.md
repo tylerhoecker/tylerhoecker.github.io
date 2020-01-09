@@ -6,7 +6,7 @@ last_modified_at: 2019-03-10T20:23:03-05:00
 #toc: true
 ---
 
-I'm a Ph.D. candidate at the Univeristy of Wisconsin-Madison, where I work in Dr. Monica Turner's Ecosystem and Landscape Ecology Lab. 
+I'm a Ph.D. candidate at the Univeristy of Wisconsin-Madison, where I work in [Dr. Monica Turner's Ecosystem and Landscape Ecology Lab](http://landscape.zoology.wisc.edu/index.html). 
 
 ##  Research interests 
 
