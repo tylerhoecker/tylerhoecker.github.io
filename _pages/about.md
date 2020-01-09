@@ -26,7 +26,7 @@ You can find more details about my research on the [Research page](/research/)
 
 My passion for exploring the natural world is what led me to science, and I enjoy a variety of methods for doing so: by foot, bike, ski, and on rock. I also enjoy the vibrant local and international food scene Madison.
 
-Before beginning graduate school, I spent six months living aboard a small sailboat in the south Pacific. You can [download collection of photographs and essays I produced on the experience](/assets/pdfs/hoecker_cv_2019_03_10.pdf)
+Before beginning graduate school, I spent six months living aboard a small sailboat in the south Pacific. You can [download "Ocean Wilderness", a collection of photographs and essays I produced on the experience](/assets/pdfs/OceanWilderness.pdf)
 
 ## Contact
 
